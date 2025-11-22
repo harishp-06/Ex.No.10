@@ -326,6 +326,13 @@ Solar energy will play a key role in helping countries achieve net-zero goals an
 ~ Accuracy	High	Fact-checked
 ~ Tone	Formal	Academic/Educational
 
+## Example 
+
+[Detailed_AI_Content_Generation_Report.docx](https://github.com/user-attachments/files/23686979/Detailed_AI_Content_Generation_Report.docx)
+
+[Detailed_AI_Content_Generation_Report harry.pdf](https://github.com/user-attachments/files/23686992/Detailed_AI_Content_Generation_Report.harry.pdf)
+
+
 ## Conclusion
 
 This experiment demonstrates how structured prompting improves the quality, depth, and clarity of AI-generated content. Using techniques like semantic filtering, answer engineering, and decision-making prompts, both the case study and renewable energy report evolve from simple drafts into polished, professional final versions.
