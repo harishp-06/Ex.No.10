@@ -328,7 +328,7 @@ Solar energy will play a key role in helping countries achieve net-zero goals an
 
 ## Example 
 
-[Detailed_AI_Content_Generation_Report.docx](https://github.com/user-attachments/files/23686979/Detailed_AI_Content_Generation_Report.docx)
+[AI_Content_Generation_Presentation 1.pdf](https://github.com/user-attachments/files/23686996/AI_Content_Generation_Presentation.1.pdf)
 
 [Detailed_AI_Content_Generation_Report harry.pdf](https://github.com/user-attachments/files/23686992/Detailed_AI_Content_Generation_Report.harry.pdf)
 
